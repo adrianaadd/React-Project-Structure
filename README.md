@@ -2,8 +2,6 @@
 
 ## ¿Cómo puedo crear mi proyecto React?
 
-### 1ª Forma: Utilizando create-react-app
-
 ```bash
 npm create vite@latest my-react-app -- --template react
 ```
